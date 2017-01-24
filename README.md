@@ -2,6 +2,8 @@
 
 Interactive plantuml with KLIPSE
 
+* [demo](https://clj-plantuml.herokuapp.com)
+
 ## Requirements
 
 * Java 1.8
